@@ -13,8 +13,8 @@
 
     <article>
          <p>I’m a digital publisher and graphic designer based in Bristol.</p>
-      <img src="https://dogtime.com/assets/uploads/2011/03/puppy-development.jpg" alt="Image 1 Text">
-          <br><small>Here's me and a very small mountain</small>
+      <img src="https://scontent-man2-1.xx.fbcdn.net/v/t1.6435-9/71041094_10220249482451932_312855803071561728_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=174925&_nc_ohc=DhnGosrGaOwAX_CJaOG&_nc_oc=AQlPZYMW4wx5xeikcJ6uGRWBA5QqVARkSsSzlqGioyEs9xlzub1WtiZ98zEy-iAKb4qwZlQVA8e_YgMNk5aSQYsa&_nc_ht=scontent-man2-1.xx&oh=00_AfA3Sv4MArLkyYazTEBrmBV0tfUZkaa5DvQHs6lruMY65A&oe=640A08BC" alt="A Mountain and I">
+          <br><small>Here's me and an oversized carrot</small>
 
       <h2>A bit about me:</h2>
       <ul>
