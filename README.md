@@ -13,7 +13,7 @@
 
     <article>
          <p>I’m a digital publisher and graphic designer based in Bristol.</p>
-      <img src="https://bricksbristol.org/wp-content/uploads/2021/02/Victoria-McCusker-17-02-2021-scaled-163x163-c-center.jpg" alt="A Mountain and I">
+      <img href="https://bricksbristol.org/wp-content/uploads/2021/02/Victoria-McCusker-17-02-2021-scaled-163x163-c-center.jpg" alt="A Mountain and I">
           <br><small>Here's me and a very small mountain</small>
 
       <h2>A bit about me:</h2>
