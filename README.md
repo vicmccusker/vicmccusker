@@ -13,7 +13,7 @@
 
     <article>
          <p>I’m a digital publisher and graphic designer based in Bristol.</p>
-      <img src="https://i.pinimg.com/280x280_RS/c7/fd/a3/c7fda38cc2f87b94f0889364af82e1b8.jpg" alt="Here I am!">
+      <img src="https://dogtime.com/assets/uploads/2011/03/puppy-development.jpg" alt="Image 1 Text">
           <br><small>Here's me and a very small mountain</small>
 
       <h2>A bit about me:</h2>
