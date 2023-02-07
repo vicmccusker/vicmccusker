@@ -20,7 +20,7 @@
       <ul>
         <li>I completed a masters in Curating, so you’ll probably find me at the gallery or museum</li>
         <li>I love being outside, walking, getting muddy and pretending showers don’t exist</li>
-        <li>I’ve lived and worked in 7 countries and I’m only 29!</li>
+        <li>Lived and worked in 6 countries before the age of 29!</li>
       </ul>
       
     </article>
