@@ -14,7 +14,7 @@
     <article>
          <p>I’m a digital publisher and graphic designer based in Bristol.</p>
       
-      <a href="https://www.facebook.com/photo/?fbid=10220249482411931&set=a.1599407389784"><img src="smiley.gif" alt="A Mountain and I" style="width:42px;height:42px;"></a>
+      <a href="https://www.facebook.com/photo/?fbid=10220249482411931&set=a.1599407389784"><img src="https://www.facebook.com/photo/?fbid=10220249482411931&set=a.1599407389784" alt="A Mountain and I" style="width:42px;height:42px;"></a>
           <img src="./images/71041094_10220249482451932_312855803071561728_n.jpg" alt="whale" width="200">
           <br><small>Here's me and a very small mountain</small>
 
